@@ -31,6 +31,13 @@
     gap:3px;
     cursor: pointer;
 }
+.nav-menu hr{
+    background: rgb(243, 4, 4);
+    height: 3px;
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+}
 
 .nav-login-cart{
     display: flex;
