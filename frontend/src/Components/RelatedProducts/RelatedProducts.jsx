@@ -18,4 +18,4 @@ const RelatedProdcuts = () => {
   )
 }
 
-export default RelatedProdcuts
+export default RelatedProdcuts;
